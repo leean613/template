@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+    "Development": "Data Source=DESKTOP-R6LQG6N\\TRANGBAM;Initial Catalog=Buffalo;User ID=sa;Password=Admin@123;Trusted_Connection=False;MultipleActiveResultSets=True",
+    "Staging": "Data Source=DESKTOP-R6LQG6N\\TRANGBAM;Initial Catalog=Buffalo;User ID=sa;Password=Admin@123;Trusted_Connection=False;MultipleActiveResultSets=True",
+    "Production": "Data Source=DESKTOP-R6LQG6N\\TRANGBAM;Initial Catalog=Buffalo;User ID=sa;Password=Admin@123;Trusted_Connection=False;MultipleActiveResultSets=True"
+  }
+}

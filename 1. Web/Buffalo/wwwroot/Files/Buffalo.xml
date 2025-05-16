@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Buffalo</name>
+    </assembly>
+    <members>
+        <member name="M:Buffalo.Controllers.LoginController.Login(DTOs.Buffalo.LoginDto)">
+            <summary>
+            Login
+            </summary>
+        </member>
+    </members>
+</doc>
